@@ -47,3 +47,4 @@ If you have any questions about this Privacy Policy, the practices of this Game,
 
 *This document was last updated on: **November 15, 2025***
 
+

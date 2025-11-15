@@ -1,4 +1,4 @@
-Privacy Policy for Pop Rush
+privacy-policy.md
 This Privacy Policy governs the manner in which **TapTap Studio** ("We," "Us," or "Our") collects, uses, maintains, and discloses information collected from users (each, a "User") of the mobile game **Pop Rush** (the "Game").
 
 1. Information We Collect
@@ -44,4 +44,5 @@ If you have any questions about this Privacy Policy, the practices of this Game,
 **Game Name:** Pop Rush
 **Developer/Company:** **TapTap Studio**
 **Email:** **syedsaadhasnain@gmail.com**
+
 *This document was last updated on: **November 15, 2025***

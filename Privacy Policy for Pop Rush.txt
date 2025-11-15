@@ -1,0 +1,47 @@
+Privacy Policy for Pop Rush
+This Privacy Policy governs the manner in which **TapTap Studio** ("We," "Us," or "Our") collects, uses, maintains, and discloses information collected from users (each, a "User") of the mobile game **Pop Rush** (the "Game").
+
+1. Information We Collect
+A. Non-Personal Information
+We may collect non-personal identification information about Users whenever they interact with our Game. Non-personal information may include the device type, operating system version, the game version, the time and date of usage, and information about how the User plays the Game (such as session duration, level completion, and in-game actions).
+
+B. Third-Party Services
+Our Game utilizes third-party services that may collect information used to identify you. These services are provided under the privacy policies of the respective providers:
+
+**Google Play Services:** Used for authentication, leaderboards, achievements, and cloud saves. Google's privacy policy can be found here: https://policies.google.com/privacy.
+**Google AdMob:** Used for serving advertisements within the game. AdMob may collect data for personalization and measurement.
+C. Personal Data (Optional/Limited)
+We **do not** directly collect or require Users to submit personal data such as names, addresses, or email addresses for general gameplay.
+
+2. How We Use Collected Information
+We collect and use Non-Personal Information for the following purposes:
+
+**To Improve the Game:** The information helps us understand how our Users use the services and resources provided in our Game, allowing us to identify bugs, optimize difficulty, and improve features.
+**To Personalize User Experience:** We may use information in the aggregate to understand how our Users as a group use the services and resources provided.
+**To Run and Operate Our Game:** We may need your information to display content correctly or to fulfill a specific request (e.g., restoring a cloud save).
+**For Advertising:** To show advertisements in the game (via AdMob) to support the development and operation of the Game.
+3. How We Protect Your Information
+We adopt appropriate data collection, storage, and processing practices and security measures to protect against unauthorized access, alteration, disclosure, or destruction of your non-personal information and data stored on our systems or through third-party providers.
+
+4. Sharing Your Personal Information
+We do not sell, trade, or rent Users' personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates, and advertisers for the purposes outlined above.
+
+5. Third-Party Websites/Links
+Users may find advertising or other content in our Game that links to the sites and services of our partners, suppliers, advertisers, sponsors, licensors, and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Game.
+
+6. Children's Privacy
+Our Game is intended for a general audience. We do not knowingly collect personal information from children under the age of 13. If a parent or guardian becomes aware that his or her child has provided us with personal information without their consent, he or she should contact us at the contact information provided below. We will take reasonable steps to remove such information from our records.
+
+7. Changes to this Privacy Policy
+**TapTap Studio** has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the non-personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+
+8. Your Acceptance of These Terms
+By using this Game, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Game. Your continued use of the Game following the posting of changes to this policy will be deemed your acceptance of those changes.
+
+9. Contacting Us
+If you have any questions about this Privacy Policy, the practices of this Game, or your dealings with this Game, please contact us at:
+
+**Game Name:** Pop Rush
+**Developer/Company:** **TapTap Studio**
+**Email:** **syedsaadhasnain@gmail.com**
+*This document was last updated on: **November 15, 2025***
